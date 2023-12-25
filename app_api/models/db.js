@@ -1,6 +1,6 @@
 var mongoose  =require("mongoose");
 //var dbURI= "mongodb://127.0.0.1/mekanbul";
-var dbURI="mongodb+srv://root:root123@cluster0.hmjfwxi.mongodb.net/"
+var dbURI="mongodb+srv://root:root123@cluster0.hmjfwxi.mongodb.net/mekanbul"
 mongoose.connect(dbURI);
 mongoose.connection.on("connected", function(){
     console.log("Bağlandı");
