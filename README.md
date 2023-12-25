@@ -10,10 +10,13 @@ Yorumlar
 <br>
 odev5-son-isas-projects-b792bbbe.vercel.app/api/venues/6589ce1a0ee24591e077fe46/comments/6589ce4d1320a068a9706dee
 <br>
-![Ekran görüntüsü 2023-12-25 231922](https://github.com/isaulutepe/Odev5/assets/114800514/a5f8ca23-6756-4dbb-998e-b9b6a7c2aeb9)
+
+![Ekran görüntüsü 2023-12-25 231922](https://github.com/isaulutepe/Odev5/assets/114800514/b2110199-5701-43cb-b68c-ecf835f97905)
+
 <br>
 Konumlar
 <br>
 odev5-son-isas-projects-b792bbbe.vercel.app/api/venues?lat=1&long=1
 <br>
-![Ekran görüntüsü 2023-12-25 232015](https://github.com/isaulutepe/Odev5/assets/114800514/473f909a-fb2a-4f36-b163-73fd3ee10e14)
+
+![Ekran görüntüsü 2023-12-25 232015](https://github.com/isaulutepe/Odev5/assets/114800514/393d82fb-6e7f-4098-9cea-ecf52d67ec79)
